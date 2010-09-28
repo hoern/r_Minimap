@@ -1,0 +1,6 @@
+## Interface: 40000
+## Title: |cFF006699ristretto|r Minimap
+## Description: Minimap movement and restyling
+## SavedVariablesPerCharacter: rConfig
+
+core.lua
